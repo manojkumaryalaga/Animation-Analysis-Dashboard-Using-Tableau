@@ -9,12 +9,13 @@ All three dashboards are combined in one Tableau workbook:
 📁 Anime_Dashboards.twb
 
 ---
-### 🧾 Dataset Description
-
+## 🧾 Dataset Description
+---
 ### Data Source
 [MyAnimeList Dataset – DBD Mobile (Kaggle)](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset)
 
-Dataset Overview:
+---
+### Dataset Overview:
 This dataset provides detailed metadata of anime titles scraped from MyAnimeList.net, including information such as ratings, genres, studios, number of episodes, and user engagement.
 
 Stats:
@@ -38,7 +39,8 @@ members	Number of users who added the anime to their list
 studios / producers	Production companies involved
 status	Airing status (Finished, Airing, Not yet aired)
 
-Data Preparation Steps:
+---
+### Data Preparation Steps:
 
 Replaced missing or null values with "Unknown".
 
@@ -58,9 +60,9 @@ Filtered incomplete or low-data titles for better visualization quality.
 
 ---
 
-### 📊 Dashboards & Analysis Patterns
+## 📊 Dashboards & Analysis Patterns
 
-## 1️⃣ Anime By Type Dashboard
+### 1️⃣ Anime By Type Dashboard
 ---
 
 ### 📸 Screenshot:
@@ -100,7 +102,7 @@ Most anime originate from manga or original works.
 Majority (~90%) are finished airing, indicating stable archival data
 
 ---
-## 2️⃣ Anime By Show Dashboard
+### 2️⃣ Anime By Show Dashboard
 
 ---
 ### 📸 Screenshot:
@@ -132,7 +134,7 @@ Mature-rated (R-17+) shows attract stronger engagement among dedicated viewers.
 
 ---
 
-## 3️⃣ Anime By Score Dashboard
+### 3️⃣ Anime By Score Dashboard
 
 ---
 
