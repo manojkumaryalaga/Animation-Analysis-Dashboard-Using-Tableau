@@ -1,6 +1,6 @@
-### 🎬 Anime Analytics Dashboards (Tableau)
+## 🎬 Anime Analytics Dashboards (Tableau)
 ---
-## 📘 Overview
+### 📘 Overview
 
 This Tableau project presents three interactive dashboards — By Type, By Show, and By Score — designed to explore and visualize patterns in the anime industry using the MyAnimeList Dataset from Kaggle.
 
@@ -11,8 +11,8 @@ All three dashboards are combined in one Tableau workbook:
 ---
 ### 🧾 Dataset Description
 
-## Data Source
-[MyAnimeList Dataset – DBD Mobile (Kaggle)](https://www.kaggle.com/datasets/your-dataset-link)
+### Data Source
+[MyAnimeList Dataset – DBD Mobile (Kaggle)](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset)
 
 Dataset Overview:
 This dataset provides detailed metadata of anime titles scraped from MyAnimeList.net, including information such as ratings, genres, studios, number of episodes, and user engagement.
