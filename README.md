@@ -7,6 +7,7 @@ This Tableau project presents three interactive dashboards — By Type, By Show,
 The project analyzes how factors like anime type, genres, source material, and audience engagement impact popularity, ratings, and rankings.
 All three dashboards are combined in one Tableau workbook:
 📁 Anime_Dashboards.twb
+
 ---
 ### 🧾 Dataset Description
 
@@ -56,9 +57,17 @@ Normalized Rank Metric
 Filtered incomplete or low-data titles for better visualization quality.
 
 ---
+
 ### 📊 Dashboards & Analysis Patterns
 
 ## 1️⃣ Anime By Type Dashboard
+---
+
+### 📸 Screenshot:
+
+![Dashboard 1](screenshots/Screenshot%20(112).png)
+
+---
 
 Purpose: Explore overall trends across anime types — TV, Movie, OVA, ONA, and Special.
 
@@ -91,12 +100,14 @@ Most anime originate from manga or original works.
 Majority (~90%) are finished airing, indicating stable archival data
 
 ---
-📸 Screenshot:
-![Dashboard 1](screenshots/Screenshot%20(112).png)
-
----
 ## 2️⃣ Anime By Show Dashboard
 
+---
+### 📸 Screenshot:
+
+![Dashboard 2](screenshots/Screenshot%20(113).png)
+
+---
 Purpose: Provide detailed insights for individual anime titles.
 
 Key Visuals:
@@ -120,12 +131,16 @@ Anime in genres like Drama, Action, and Adventure consistently dominate the top 
 Mature-rated (R-17+) shows attract stronger engagement among dedicated viewers.
 
 ---
-📸 Screenshot:
-![Dashboard 2](screenshots/Screenshot%20(113).png)
 
----
 ## 3️⃣ Anime By Score Dashboard
 
+---
+
+### 📸 Screenshot:
+
+![Dashboard 3](screenshots/Screenshot%20(114).png)
+
+---
 Purpose: Compare top anime by their scores, ranks, and audience engagement.
 
 Key Visuals:
@@ -151,10 +166,6 @@ Ratings above 8.5 correlate strongly with 1M+ audience engagement.
 Movies and OVA formats often achieve higher per-minute ratings compared to long TV series.
 
 ---
-📸 Screenshot:
-![Dashboard 3](screenshots/Screenshot%20(114).png)
-
----
 ### 🧠 Key Findings
 
 Genre Dominance: Action, Drama, and Fantasy lead both in volume and ratings.
@@ -164,6 +175,7 @@ Source Influence: Manga-based anime dominate the top-rated and most-watched cate
 Audience Trends: Positive relationship between rating and audience size.
 
 Runtime Consistency: Average anime episode runs between 23–25 minutes.
+
 ---
 ### ⚙️ Tools & Technologies
 Tool	Purpose
@@ -193,13 +205,14 @@ By Score → rating vs popularity comparison
 
 ---
 ### 📂 Repository Structure
+
 📁 Anime-Analytics-Dashboards/
- ┣ 📜 README.md
- ┣ 📊 Anime_Dashboards.twb
- ┗ 📁 screenshots/
-     ┣ Anime_By_Type.png
-     ┣ Anime_By_Show.png
-     ┗ Anime_By_Score.png
+├── README.md
+├── Anime_Dashboards.twb
+└── screenshots/
+├── Anime_By_Type.png
+├── Anime_By_Show.png
+└── Anime_By_Score.png
      
 ---
 ### 🌱 Future Enhancements
