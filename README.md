@@ -5,8 +5,7 @@
 This Tableau project presents three interactive dashboards — By Type, By Show, and By Score — designed to explore and visualize patterns in the anime industry using the MyAnimeList Dataset from Kaggle.
 
 The project analyzes how factors like anime type, genres, source material, and audience engagement impact popularity, ratings, and rankings.
-All three dashboards are combined in one Tableau workbook:
-📁 Anime_Dashboards.twb
+All three dashboards are combined in one Tableau workbook as Anime_Dashboards.twb
 
 ---
 ## 🧾 Dataset Description
