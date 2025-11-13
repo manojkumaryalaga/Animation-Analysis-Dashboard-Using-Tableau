@@ -10,7 +10,7 @@ All three dashboards are combined in one Tableau workbook:
 
 ---
 ## 🧾 Dataset Description
----
+
 ### Data Source
 [MyAnimeList Dataset – DBD Mobile (Kaggle)](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset)
 
@@ -208,13 +208,28 @@ By Score → rating vs popularity comparison
 ---
 ### 📂 Repository Structure
 
+---
 📁 Anime-Analytics-Dashboards/
+
+---
 ├── README.md
+
+---
 ├── Anime_Dashboards.twb
+
+---
 └── screenshots/
+
+---
 ├── Anime_By_Type.png
+
+---
 ├── Anime_By_Show.png
+
+---
 └── Anime_By_Score.png
+
+---
      
 ---
 ### 🌱 Future Enhancements
